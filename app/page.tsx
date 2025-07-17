@@ -196,7 +196,7 @@ export default function FirstDateInvitation() {
               Thý Chu Che
             </span>
             <div className="w-24 h-24 rounded-full bg-white shadow-lg overflow-hidden border-4 border-purple-200">
-              <img src="/her.jpg" alt="Her photo" className="w-full h-full object-cover" />
+              <img src="/her3.jpg" alt="Her photo" className="w-full h-full object-cover" />
             </div>
             <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-purple-500 rounded-full flex items-center justify-center shadow-lg">
               <Heart className="w-4 h-4 text-white" />
@@ -216,7 +216,7 @@ export default function FirstDateInvitation() {
               AQuan
             </span>
             <div className="w-24 h-24 rounded-full bg-white shadow-lg overflow-hidden border-4 border-pink-200">
-              <img src="/me.jpg" alt="My photo" className="w-full h-full object-cover" />
+              <img src="/me1.jpg" alt="My photo" className="w-full h-full object-cover" />
             </div>
             <div className="absolute -bottom-2 -left-2 w-8 h-8 bg-pink-500 rounded-full flex items-center justify-center shadow-lg">
               <Heart className="w-4 h-4 text-white" />
@@ -318,7 +318,7 @@ export default function FirstDateInvitation() {
               ))}
             </div>
             <p className="text-gray-600 text-sm" style={{ fontFamily: "Open Sans, sans-serif" }}>
-              Anh rất mong chờ được đi chơi với em 💕
+              Anh rất mong chờ đến buổi hẹn của chúng mình 💕
             </p>
             <p className="text-purple-500">
               Hẹn gặp em vào lúc đó! 🌹
